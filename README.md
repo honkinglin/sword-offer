@@ -1,2 +1,6 @@
-# sword-offer
-JavaScript solutions to 《剑指 Offer》 coding challenges, aimed at mastering algorithms for technical interviews.
+# Sword Offer
+用 JavaScript 解决《剑指提供》的编码挑战，旨在掌握技术面试的算法。
+
+## 目录
+
+- [数组中重复的数字](./docs/数组中重复的数字)
