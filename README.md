@@ -3,6 +3,10 @@
 
 ## 目录
 
-- [数组中重复的数字](./docs/数组中重复的数字.md)
-- [不修改数组找出重复的数字](./docs/不修改数组找出重复的数字.md)
-- [替换空格](./docs/替换空格.md)
+- [数组中重复的数字](./docs/DuplicationInArray.md)
+- [不修改数组找出重复的数字](./docs/DunplicationInArrayNoEdit.md)
+- [替换空格](./docs/ReplaceSpaces.md)
+
+## 在线预览
+
+![点击这里](https://honkinglin.github.io/sword-offer/)
