@@ -1,10 +1,16 @@
 {
-  "devDependencies": {
-    "vitepress": "^1.4.0"
-  },
+  "name": "sword-offer",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["algorithm", "sword offer"],
+  "author": "Kyrie Lin",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.4.0"
   }
 }
