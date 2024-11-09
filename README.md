@@ -7,4 +7,4 @@
 - [不修改数组找出重复的数字](./docs/DunplicationInArrayNoEdit.md)
 - [替换空格](./docs/ReplaceSpaces.md)
 
-## [点击在线预览](https://honkinglin.github.io/sword-offer/)
+[点击在线预览](https://honkinglin.github.io/sword-offer/)
