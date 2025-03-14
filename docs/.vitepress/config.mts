@@ -7,14 +7,14 @@ export default defineConfig({
   base: '/sword-offer',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-
     sidebar: [
       {
-        text: '剑指 Offer (第2版)',
+        text: '剑指 Offer',
         items: [
-          { text: '数组中重复的数字', link: '/DuplicationInArray' },
-          { text: '不修改数组找出重复的数字', link: '/DuplicationInArrayNoEdit' },
-          { text: '替换空格', link: '/ReplaceSpaces' },
+          { text: '数组中重复的数字', link: '/03_01_DuplicationInArray' },
+          { text: '不修改数组找出重复的数字', link: '/03_02_DuplicationInArrayNoEdit' },
+          { text: '二维数组中的查找', link: '/04_FindInPartiallySortedMatrix' },
+          { text: '替换空格', link: '/05_ReplaceSpaces' },
         ]
       }
     ],

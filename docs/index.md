@@ -11,7 +11,7 @@ hero:
       link: https://github.com/honkinglin/sword-offer
     - theme: brand
       text: Get Started
-      link: /DuplicationInArray
+      link: /03_01_DuplicationInArray
 ---
 
 <Cube />
