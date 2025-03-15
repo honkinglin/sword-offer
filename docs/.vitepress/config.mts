@@ -15,6 +15,7 @@ export default defineConfig({
           { text: '不修改数组找出重复的数字', link: '/03_02_DuplicationInArrayNoEdit' },
           { text: '二维数组中的查找', link: '/04_FindInPartiallySortedMatrix' },
           { text: '替换空格', link: '/05_ReplaceSpaces' },
+          { text: '从尾到头打印链表', link: '/06_PrintListFromTailToHead' },
         ]
       }
     ],
