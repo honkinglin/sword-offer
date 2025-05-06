@@ -9,7 +9,7 @@
   },
   "keywords": ["algorithm", "sword offer"],
   "author": "Kyrie Lin",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "vitepress": "^1.4.0"
   }
